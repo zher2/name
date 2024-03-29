@@ -1,0 +1,17 @@
+{
+  "name": "icqq-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "icqq": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1"
+  }
+}
